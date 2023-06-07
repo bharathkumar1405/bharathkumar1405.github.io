@@ -10,6 +10,12 @@ export const AppsJson = [
         component: HomePage
     },
     {
+        id: "homepage",
+        title: "Home",        
+        path: "/react-app",
+        component: HomePage
+    },
+    {
         id: "card 1",
         title: "App1",        
         image: "https://source.unsplash.com/user/erondu/600x400",
@@ -21,13 +27,13 @@ export const AppsJson = [
         title: "App2",        
         image: "https://source.unsplash.com/user/erondu/600x400",
         path: "/path2",
-        component: Invoice
+        component: UserPage
     },
     {
         id: "card 3",
         title: "App3",        
         image: "https://source.unsplash.com/user/erondu/600x400",
-        path: "/react-app",
+        path: "/path3",
         component: UserPage
     },
     {
