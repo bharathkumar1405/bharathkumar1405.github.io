@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app/static/css/main.df95d4fe.css",
-    "main.js": "/react-app/static/js/main.e41b0543.js",
+    "main.js": "/react-app/static/js/main.767241ef.js",
     "static/media/download.svg": "/react-app/static/media/download.18bbd42e6b29fac26103.svg",
     "index.html": "/react-app/index.html",
     "static/media/resize.svg": "/react-app/static/media/resize.f719defd23407ef1b1e1.svg",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.df95d4fe.css",
-    "static/js/main.e41b0543.js"
+    "static/js/main.767241ef.js"
   ]
 }
