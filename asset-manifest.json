@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b414820.css",
-    "main.js": "/static/js/main.7e575317.js",
+    "main.js": "/static/js/main.b2a95cf7.js",
     "static/media/download.svg": "/static/media/download.18bbd42e6b29fac26103.svg",
     "index.html": "/index.html",
     "static/media/resize.svg": "/static/media/resize.f719defd23407ef1b1e1.svg",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.1b414820.css",
-    "static/js/main.7e575317.js"
+    "static/js/main.b2a95cf7.js"
   ]
 }
